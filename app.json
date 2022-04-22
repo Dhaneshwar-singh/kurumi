@@ -8,15 +8,9 @@
          "manager",
          "KURUMI"
       ],   
-   "repository": "https://github.com/Hirojazz/KURUMIBOT",
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
+   "repository": "https://github.com/Dhaneshwar-singh/kurumi",
+   
+  
    "env": {
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
